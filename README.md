@@ -1,12 +1,13 @@
-ML - Engineerin Challenge
+ML - Engineering Challenge
+
 Machine Learning System implementation for Simple Linear Regression 
 
 Software and Tools used:-
-  
-1. [Github](https://github.com)
-2. [GitCLI](https://git-scm.com/downloads)
-3. [Visual Studio Code](https://code.visualstudio.com/)
-4. [Google Cloud Platform](https://cloud.google.com/)
-5. [Postman](https://www.postman.com/)
 
+1. [Anaconda Distribution](https://www.anaconda.com/products/distribution)
+2. [Visual Studio Code](https://code.visualstudio.com/)
+3. [Git CLI](https://git-scm.com/downloads)
+4. [Github Account](https://github.com)
+5. [Postman](https://www.postman.com/)
+6. [Google Cloud Platform](https://cloud.google.com/)
 
