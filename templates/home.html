@@ -1,0 +1,22 @@
+<head>
+    <meta charset="UTF-8">
+    <title>SLR Flask App</title>
+    <link href='https://fonts.googleapis.com/css?family=Pacifico' rel='stylesheet' type='text/css'>
+  <link href='https://fonts.googleapis.com/css?family=Arimo' rel='stylesheet' type='text/css'>
+  <link href='https://fonts.googleapis.com/css?family=Hind:300' rel='stylesheet' type='text/css'>
+  <link href='https://fonts.googleapis.com/css?family=Open+Sans+Condensed:300' rel='stylesheet' type='text/css'>  
+  </head>
+  
+  <body>
+   <div class="login">
+      <h1>Simple Linear Regression</h1>  
+      <form action="{{ url_for('predt')}}"method="post">
+        <input type="text" name="X" placeholder="INPUT" required="required" /><br>
+          <button type="submit" class="btn btn-primary btn-block btn-large">Predict</button>
+      </form>
+        
+   </div>
+   {{prediction_text}}
+  
+  </body>
+  </html>
